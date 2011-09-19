@@ -1,0 +1,7 @@
+Bin
+Debug
+obj
+*.sln
+*.suo
+*.user
+_ReSharper*
